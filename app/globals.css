@@ -1,0 +1,28 @@
+/* globals.css */
+
+/* Import Tailwind layers */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Optional: Custom base styles */
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: 'Inter', sans-serif;
+  background-color: #ffffff;
+  color: #111827;
+}
+
+/* Optional: Improve image rendering */
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+/* Optional: Reset anchor tag styles */
+a {
+  color: inherit;
+  text-decoration: none;
+}
