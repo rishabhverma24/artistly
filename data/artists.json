@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "name": "DJ Sonic",
+    "category": "DJ",
+    "price": "₹15,000 - ₹25,000",
+    "location": "Mumbai"
+  },
+  {
+    "id": 2,
+    "name": "Sufi Sisters",
+    "category": "Singers",
+    "price": "₹20,000 - ₹35,000",
+    "location": "Delhi"
+  }
+]
